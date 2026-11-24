@@ -9,4 +9,4 @@ I build the reporting multi-location businesses run on: databases, pipelines tha
 - 🔁 Software onboarding and data migration without a six-month consulting engagement
 
 See sample dashboards: [truebearingdata.com/scorecards](https://truebearingdata.com/scorecards.html?utm_source=github&utm_medium=profile)
-Talk shop: [LinkedIn](https://www.linkedin.com/company/144164841/) · info@truebearingdata.com
+Talk shop: [LinkedIn](https://www.linkedin.com/company/truebearingdata) · info@truebearingdata.com
